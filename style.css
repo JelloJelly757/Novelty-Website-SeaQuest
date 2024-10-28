@@ -93,6 +93,9 @@ a:hover {
 
 .container2 {
     display: flex;
-    padding-left: 20%; 
+    padding-left: 16%; 
 }
 
+.bongoimg img {
+    size: 10%;
+}
